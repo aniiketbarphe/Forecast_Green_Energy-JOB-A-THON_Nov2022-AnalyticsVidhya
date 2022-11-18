@@ -27,3 +27,6 @@ You are provided with total energy demand on an hourly basis for the past 9 year
 You are provided with 3 files: train set, test set, and sample submission file.
 
 **3.2) Train Set:-**
+
+![Train-Img](https://user-images.githubusercontent.com/84449238/202767540-702e7e95-a8d0-4aa0-878e-e95d4ce7f891.JPG)
+
