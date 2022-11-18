@@ -39,3 +39,16 @@ You are provided with 3 files: train set, test set, and sample submission file.
 You need to submit the solution file that follows a format similar to that of the sample submission file. sample_submission.csv contains 2 variables - row_id and energy.
 
 ![sub-img](https://user-images.githubusercontent.com/84449238/202767861-1fb09125-c7d5-45cd-bea8-7b93feb9de09.JPG)
+
+**4) Evaluation metric:-**
+
+The evaluation metric for this hackathon would be RMSE.
+
+**5) Public and Private Split:-**
+
+Test data is further divided into Public (40%) and Private (60%) data.
+Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
+
+**6) Competition Link:-**
+
+https://datahack.analyticsvidhya.com/contest/job-a-thon-november-2022/#LeaderBoard 
