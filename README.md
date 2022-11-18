@@ -30,3 +30,12 @@ You are provided with 3 files: train set, test set, and sample submission file.
 
 ![Train-Img](https://user-images.githubusercontent.com/84449238/202767540-702e7e95-a8d0-4aa0-878e-e95d4ce7f891.JPG)
 
+**3.3) Test Set:-**
+
+![test-img](https://user-images.githubusercontent.com/84449238/202767813-61c22229-35c6-47c3-ba0b-c321c0392a02.JPG)
+
+**3.4) Submission File Format:-**
+
+You need to submit the solution file that follows a format similar to that of the sample submission file. sample_submission.csv contains 2 variables - row_id and energy.
+
+![sub-img](https://user-images.githubusercontent.com/84449238/202767861-1fb09125-c7d5-45cd-bea8-7b93feb9de09.JPG)
