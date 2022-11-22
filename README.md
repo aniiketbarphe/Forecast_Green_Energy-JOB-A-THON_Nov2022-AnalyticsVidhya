@@ -57,7 +57,7 @@ Your initial responses will be checked and scored on the Public data. The final 
 
 **2) Private Leaderboard :-** 486.5502581873
 
-**b) Best Model:-** 
+**b) Best Model:-** Ensemble Model (Light Gradient Boosted Machine(LGBM) Regressor + Histogram Gradient Boosting Regression)
 
 ![Public-Score](https://user-images.githubusercontent.com/84449238/203368380-b89733e3-d8e6-4c42-a88a-fd92f8c2a58c.JPG)
 
