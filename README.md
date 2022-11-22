@@ -55,3 +55,24 @@ https://datahack.analyticsvidhya.com/contest/job-a-thon-november-2022/#LeaderBoa
 
 ![jobthon](https://user-images.githubusercontent.com/84449238/202783914-44a8df60-76a9-4569-88ac-0e7d3413bd50.JPG)
 
+# Summary
+
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-** 261.1007416191
+
+**2) Private Leaderboard :-** 486.5502581873
+
+**b) Best Model:-** 
+
+![Public-Score](https://user-images.githubusercontent.com/84449238/203368380-b89733e3-d8e6-4c42-a88a-fd92f8c2a58c.JPG)
+
+![Private-Score](https://user-images.githubusercontent.com/84449238/203368436-1c3b5b4e-b6da-4217-9c15-d9294eaffdbd.JPG)
+
+**c) Competition Link:-** https://datahack.analyticsvidhya.com/contest/job-a-thon-november-2022/#LeaderBoard
+
+**d) Rank Scored:-**
+
+a) **07** out of **6388** registered participants (Public Leaderboard)
+
+b) **118** out of **6388** registered participants (Private Leaderboard)
